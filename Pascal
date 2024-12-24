@@ -14,7 +14,7 @@ begin
    BIN_DEC:=res;
 end;
  
-begin { основная программа 2312}
+begin { основная программа 2412}
   readln( a );
   writeln( BIN_DEC(a) );
 end.
